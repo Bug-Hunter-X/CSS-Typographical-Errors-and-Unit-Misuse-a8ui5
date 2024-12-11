@@ -1,0 +1,1 @@
+The following CSS rule has a typo:  `bacground-color: red;`  It should be `background-color: red;` This typo can be hard to spot, especially in large CSS files.  Another example could be using a unit incorrectly: `width: 100%px;`  The `px` is unnecessary and incorrect.
